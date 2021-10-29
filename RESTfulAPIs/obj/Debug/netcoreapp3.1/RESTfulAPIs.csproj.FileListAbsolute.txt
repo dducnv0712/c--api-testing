@@ -1,0 +1,15 @@
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.exe
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.deps.json
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.runtimeconfig.json
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.runtimeconfig.dev.json
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.dll
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\RESTfulAPIs.pdb
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.AssemblyInfoInputs.cache
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.AssemblyInfo.cs
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.csproj.CoreCompileInputs.cache
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.dll
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.pdb
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.genruntimeconfig.cache
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#_learning\T2009M-C_sharp\RESTfulAPIs\RESTfulAPIs\obj\Debug\netcoreapp3.1\RESTfulAPIs.csproj.AssemblyReference.cache
